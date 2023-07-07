@@ -1,0 +1,42 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=013112c2_002D2f99_002D4304_002Da22d_002D75384fa02001/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="BuildACastleTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::0E943EC4-04E7-40D0-8864-2382BB6EE97B::net7.0::Tests.CastleTest.BuildACastleTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=1e8f7d01_002D1396_002D414c_002Dafcf_002D86dfeed8ce77/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CastleTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::0E943EC4-04E7-40D0-8864-2382BB6EE97B::net7.0::Tests.CastleTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=2ce7a602_002D07c8_002D421b_002D944b_002D3fac1175870e/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="BuildACastleTest #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::0E943EC4-04E7-40D0-8864-2382BB6EE97B::net7.0::Tests.CastleTest.BuildACastleTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=61bfe243_002D3dd9_002D4236_002Da6aa_002Dd06f5114f460/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="UnitTest1" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::0E943EC4-04E7-40D0-8864-2382BB6EE97B::net7.0::Tests.AddWorkerTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::0E943EC4-04E7-40D0-8864-2382BB6EE97B::net7.0::Tests.CastleTest.BuildACastleTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::0E943EC4-04E7-40D0-8864-2382BB6EE97B::net7.0::Tests.HungerTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::0E943EC4-04E7-40D0-8864-2382BB6EE97B::net7.0::Tests.AddProjectTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::0E943EC4-04E7-40D0-8864-2382BB6EE97B::net7.0::Tests.DayFunctionTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::0E943EC4-04E7-40D0-8864-2382BB6EE97B::net7.0::Tests.CastleTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=836c2265_002D4e44_002D456c_002D9267_002Db122c1978542/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="AddWorkerTest #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::0E943EC4-04E7-40D0-8864-2382BB6EE97B::net7.0::Tests.AddWorkerTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::0E943EC4-04E7-40D0-8864-2382BB6EE97B::net7.0::Tests.AddProjectTest.BuildAHouse&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::0E943EC4-04E7-40D0-8864-2382BB6EE97B::net7.0::Tests.AddProjectTest.OnePieceOfMetalAddedToVillagePerDayBeforeQuarryIsCompleteAndThreeAfterQuarryIsComplete&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::0E943EC4-04E7-40D0-8864-2382BB6EE97B::net7.0::Tests.AddProjectTest.OnePieceOfWoodAddedToVillagePerDayBeforeWoodmillIsCompleteAndThreeAfterWoodmillIsComplete&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::0E943EC4-04E7-40D0-8864-2382BB6EE97B::net7.0::Tests.AddProjectTest.FiveItemsOfFoodAddedToVillagePerDayBeforeFarmIsCompleteAndTenAfterFarmIsComplete&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::0E943EC4-04E7-40D0-8864-2382BB6EE97B::net7.0::Tests.AddProjectTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::0E943EC4-04E7-40D0-8864-2382BB6EE97B::net7.0::Tests.DayFunctionTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::0E943EC4-04E7-40D0-8864-2382BB6EE97B::net7.0::Tests.HungerTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::0E943EC4-04E7-40D0-8864-2382BB6EE97B::net7.0::Tests.CastleTest.BuildACastleTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::0E943EC4-04E7-40D0-8864-2382BB6EE97B::net7.0::Tests.CastleTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	</wpf:ResourceDictionary>
